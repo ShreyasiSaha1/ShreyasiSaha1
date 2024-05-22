@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋🏻‍♀️ About Me:
 <li>👩‍🎓 I'm a sophomore pursuing Information Technology at KIIT, DU
 <li>🔭 I'm looking to contribute to Open Source</li>
 
