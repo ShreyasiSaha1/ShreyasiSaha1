@@ -11,7 +11,7 @@
 </p>
 
 # 💫 About Me:
-<li>👩‍🎓 I'm a pre-final year student pursuing Information Technology at KIIT</li>  
+<li>👩‍🎓 I'm a final year student pursuing Information Technology at KIIT</li>  
 <li>🔭 I'm looking to contribute to Open Source</li> 
 <li>🌱 I’m currently exploring <B>Machine learning</B></li>
 <li>📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=shreyasisaha74@gmail.com" style="text-decoration: none;">Email</a></li>
