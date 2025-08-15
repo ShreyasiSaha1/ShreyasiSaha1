@@ -2,7 +2,7 @@
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
 
-<h1 align="center">Hi 👋, I'm Shreyasi Saha</h1>
+<h1 align="center">Hi👋, I'm Shreyasi Saha</h1>
 
 <h3 align="center">A Passionate Full Stack Web Developer </h3>
 
